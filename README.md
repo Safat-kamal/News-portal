@@ -24,7 +24,7 @@ Spider is a Daily News app built in React js.
 Dashboard
 ![](https://github.com/Safat-kamal/Public-Docs/blob/master/Images/Web%20capture_22-7-2022_16318_localhost.jpeg?raw=true)
 
-News By Differnt Category
+News By Different Category
 ![](https://github.com/Safat-kamal/Public-Docs/blob/master/Images/Web%20capture_22-7-2022_16334_localhost.jpeg?raw=true)
 
 
